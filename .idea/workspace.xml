@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="453a4555-19c1-4c11-ac25-ace8f3f2b5e5" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/config/constants.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1462">
+              <caret line="86" column="8" selection-start-line="86" selection-start-column="8" selection-end-line="86" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/models/BaseModel.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="561">
+              <caret line="33" column="20" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/application/controllers/Communication.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="612" column="13" lean-forward="true" selection-start-line="612" selection-start-column="13" selection-end-line="612" selection-end-column="13" />
+              <folding>
+                <element signature="n#getResultData#0;n#Communication#0;n#!!top" />
+                <element signature="n#index_get#0;n#Communication#0;n#!!top" />
+                <element signature="n#getHelpContent_get#0;n#Communication#0;n#!!top" />
+                <element signature="n#generateVerificationCode#0;n#Communication#0;n#!!top" />
+                <element signature="n#updateEmail_put#0;n#Communication#0;n#!!top" />
+                <element signature="n#getGroup_get#0;n#Communication#0;n#!!top" />
+                <element signature="n#getGroupInformation_get#0;n#Communication#0;n#!!top" />
+                <element signature="n#joinGroup_post#0;n#Communication#0;n#!!top" />
+                <element signature="n#getDonationInformation_get#0;n#Communication#0;n#!!top" />
+                <element signature="n#updateUserPassword_put#0;n#Communication#0;n#!!top" />
+                <element signature="n#updateUserName_get#0;n#Communication#0;n#!!top" />
+                <element signature="n#updateUserPayPal_put#0;n#Communication#0;n#!!top" />
+                <element signature="n#updateUserProfile_put#0;n#Communication#0;n#!!top" />
+                <element signature="n#getNationList_get#0;n#Communication#0;n#!!top" />
+                <element signature="n#sendEmailForForgotPassword_post#0;n#Communication#0;n#!!top" />
+                <element signature="n#sendEmailForRegister_post#0;n#Communication#0;n#!!top" />
+                <element signature="n#sendEmail#0;n#Communication#0;n#!!top" />
+                <element signature="n#sendVerificationCode_post#0;n#Communication#0;n#!!top" />
+                <element signature="n#changePassword_post#0;n#Communication#0;n#!!top" />
+                <element signature="n#trySocialRegister_post#0;n#Communication#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/models/CommunicationModel.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="629">
+              <caret line="37" column="13" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>updateUserProfile</find>
+      <find>group</find>
+      <find>joinG</find>
+      <find>register</find>
+      <find>getDonationIn</find>
+      <find>uploadi</find>
+      <find>tryUserLogi</find>
+      <find>getGroup</find>
+      <find>getG</find>
+      <find>getGroupLis</find>
+      <find>getUserG</find>
+      <find>getGrou</find>
+      <find>getDonationInformation</find>
+      <find>getData</find>
+      <find>getGroupCon</find>
+      <find>getContributionInformation</find>
+      <find>getGroupWalletInformation</find>
+      <find>getUserNotification</find>
+      <find>getGroupList</find>
+      <find>getUserGroupList</find>
+      <find>foreach</find>
+      <find>getMemberGroupList</find>
+      <find>updateItem</find>
+      <find>getgroupmen</find>
+      <find>getGroupMember</find>
+      <find>creategroup</find>
+      <find>getDataArray</find>
+      <find>updateImageData</find>
+      <find>uploadImageFile</find>
+      <find>getGroupNotification</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/application/config/constants.php" />
+        <option value="$PROJECT_DIR$/application/models/UserModel.php" />
+        <option value="$PROJECT_DIR$/application/models/CommunicationModel.php" />
+        <option value="$PROJECT_DIR$/application/controllers/Communication.php" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Web" type="462c0819:PsiDirectoryNode" />
+              <item name="application" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Web" type="462c0819:PsiDirectoryNode" />
+              <item name="application" type="462c0819:PsiDirectoryNode" />
+              <item name="libraries" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Web" type="462c0819:PsiDirectoryNode" />
+              <item name="application" type="462c0819:PsiDirectoryNode" />
+              <item name="third_party" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="453a4555-19c1-4c11-ac25-ace8f3f2b5e5" name="Default Changelist" comment="" />
+      <created>1577625435240</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577625435240</updated>
+      <workItem from="1577625438488" duration="2923000" />
+      <workItem from="1577699973672" duration="5947000" />
+      <workItem from="1577768644141" duration="4480000" />
+      <workItem from="1577857272845" duration="302000" />
+      <workItem from="1577980709859" duration="2183000" />
+      <workItem from="1578022715618" duration="2967000" />
+      <workItem from="1578473142695" duration="3309000" />
+      <workItem from="1578563028542" duration="878000" />
+      <workItem from="1578894758795" duration="11487000" />
+      <workItem from="1579073835515" duration="4364000" />
+      <workItem from="1579152642504" duration="4553000" />
+      <workItem from="1579244885456" duration="953000" />
+      <workItem from="1579255536884" duration="1717000" />
+      <workItem from="1579345773724" duration="3024000" />
+      <workItem from="1579523627015" duration="3369000" />
+      <workItem from="1579586341830" duration="2656000" />
+      <workItem from="1579666910619" duration="4877000" />
+      <workItem from="1579817264229" duration="2168000" />
+      <workItem from="1579979132759" duration="4348000" />
+      <workItem from="1582346772840" duration="2590000" />
+      <workItem from="1582381756853" duration="873000" />
+      <workItem from="1582571392858" duration="1159000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="71127000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16950959" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/application/views/login/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="38" column="19" lean-forward="true" selection-start-line="38" selection-start-column="19" selection-end-line="38" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/Startpage.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/config/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="12" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/config/routes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="885">
+          <caret line="59" column="37" selection-start-line="59" selection-start-column="37" selection-end-line="59" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="66" column="1" selection-start-line="66" selection-start-column="1" selection-end-line="66" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="47" lean-forward="true" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/Login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="20" column="30" lean-forward="true" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/libraries/REST_Controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33510">
+          <caret line="2236" column="12" selection-start-line="2236" selection-start-column="12" selection-end-line="2236" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/libraries/Email.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="333">
+          <caret line="2044" column="43" lean-forward="true" selection-start-line="2044" selection-start-column="43" selection-end-line="2044" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/libraries/Format.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="888">
+          <caret line="485" column="53" selection-start-line="485" selection-start-column="53" selection-end-line="485" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/core/Loader.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="888">
+          <caret line="202" column="17" selection-start-line="202" selection-start-column="17" selection-end-line="202" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/UserModel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" column="5" lean-forward="true" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/config/constants.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1462">
+          <caret line="86" column="8" selection-start-line="86" selection-start-column="8" selection-end-line="86" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/BaseModel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" column="20" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/CommunicationModel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="37" column="13" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/Communication.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="612" column="13" lean-forward="true" selection-start-line="612" selection-start-column="13" selection-end-line="612" selection-end-column="13" />
+          <folding>
+            <element signature="n#getResultData#0;n#Communication#0;n#!!top" />
+            <element signature="n#index_get#0;n#Communication#0;n#!!top" />
+            <element signature="n#getHelpContent_get#0;n#Communication#0;n#!!top" />
+            <element signature="n#generateVerificationCode#0;n#Communication#0;n#!!top" />
+            <element signature="n#updateEmail_put#0;n#Communication#0;n#!!top" />
+            <element signature="n#getGroup_get#0;n#Communication#0;n#!!top" />
+            <element signature="n#getGroupInformation_get#0;n#Communication#0;n#!!top" />
+            <element signature="n#joinGroup_post#0;n#Communication#0;n#!!top" />
+            <element signature="n#getDonationInformation_get#0;n#Communication#0;n#!!top" />
+            <element signature="n#updateUserPassword_put#0;n#Communication#0;n#!!top" />
+            <element signature="n#updateUserName_get#0;n#Communication#0;n#!!top" />
+            <element signature="n#updateUserPayPal_put#0;n#Communication#0;n#!!top" />
+            <element signature="n#updateUserProfile_put#0;n#Communication#0;n#!!top" />
+            <element signature="n#getNationList_get#0;n#Communication#0;n#!!top" />
+            <element signature="n#sendEmailForForgotPassword_post#0;n#Communication#0;n#!!top" />
+            <element signature="n#sendEmailForRegister_post#0;n#Communication#0;n#!!top" />
+            <element signature="n#sendEmail#0;n#Communication#0;n#!!top" />
+            <element signature="n#sendVerificationCode_post#0;n#Communication#0;n#!!top" />
+            <element signature="n#changePassword_post#0;n#Communication#0;n#!!top" />
+            <element signature="n#trySocialRegister_post#0;n#Communication#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
